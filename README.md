@@ -1,5 +1,7 @@
 # AuthMigration_from_Legacy_to_OIDCandSAML
 
+<img width="1536" height="1024" alt="DNGRMS Authentication Modernization" src="https://github.com/user-attachments/assets/7beebb68-87ad-4592-8fca-0cad62596e41" />
+
 # DNGRMS 는 나의 샘플 웹 어플리케이션 이라고 가정합니다.
 
 # DNGRMS 인증 현대화 고객 요약
